@@ -1,0 +1,27 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1491462663705" stop="1491462673604">
+  <name>test_pyTestBDDLogin</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1491462663705" status="passed" stop="1491462673604">
+      <name>test_login</name>
+      <description>pyTestBDDLogin.feature: login as oneday admin</description>
+      <steps>
+        <step start="1491462667151" status="passed" stop="1491462670476">
+          <title>login_page</title>
+          <name>login_page</name>
+          <steps/>
+          <attachments/>
+        </step>
+      </steps>
+      <labels>
+        <label name="feature" value="login as oneday admin"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6004-MainThread"/>
+        <label name="host" value="tsaytieva"/>
+      </labels>
+      <attachments>
+        <attachment source="460de069-20d3-40c2-b80a-630a27b5a07c-attachment.png" title="Company page" type="image/png"/>
+      </attachments>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
